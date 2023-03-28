@@ -18,6 +18,9 @@
 - minimalism 极简
 - romantic 浪漫
 - 3d relief 3d浮雕
+- line art 线条艺术
+- comics style 漫画风格
+- clean logo 简洁的logo
 
 ## color 颜色
 - dark
@@ -33,6 +36,8 @@
 ## content
 - endless outer space sci-fi landscap 无尽的外天空科幻风景
 - Night, starry sky, Milky Way 夜星空银河 
+- the painting creates a deep emotional atmosphere and unique cultural charm for the viewers 通过运用柔和的色彩和细腻的笔触,为观者营造出深沉的情感氛围和独特的文化魅力 
+- The light ink colors in contrast with soft and light brushstrokes, create a strong sense of light and dark contrast 淡淡的墨色与柔和轻盈的笔触形成强烈的明暗对比 
 
 ## other
 - rich details 细节丰富
