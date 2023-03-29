@@ -61,3 +61,4 @@
 - stunning 逼真
 - panorama 全景
 - movie light 电影灯光
+- detailed textures and lighting 详细的纹理与照明
