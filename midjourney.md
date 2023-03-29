@@ -23,6 +23,7 @@
 - clean logo 简洁的logo
 - muted colors 柔和色彩
 - watercolor 水彩画
+- Chinese fairy tale 中国童话
 
 ## color 颜色
 - dark
@@ -55,3 +56,8 @@
 - imperious 霸道
 - spectacular 震撼
 - HD 4K 高清 4K
+- 35mm shot 35毫米镜头
+- dramatic 戏剧性
+- stunning 逼真
+- panorama 全景
+- movie light 电影灯光

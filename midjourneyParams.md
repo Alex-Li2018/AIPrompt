@@ -13,6 +13,7 @@
 --aspect 5:4 Common frame and print ratio.
 --aspect 3:2 Common in print photography.
 --aspect 7:4 Close to HD TV screens and smartphone screens.
+--aspect 9:16 portrait（人像）
 
 ## Chaos
 The --chaos or --c parameter influences how varied the initial image grids are. High --chaos values will produce more unusual and unexpected results and compositions. Lower --chaos values have more reliable, repeatable results.
