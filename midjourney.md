@@ -9,7 +9,7 @@
 - Matisse-inspired illustration 受Matisse启发的插图
 - paper illustration 纸插画
 - Chinese illustration on white background 白底中国插画
-- 
+- Chinese ancient style 中国古代风格
 
 ## Lighting 灯光
 - natural lighting 自然采光
@@ -35,6 +35,8 @@
 - [hr giger 瑞士超现实主义画家](https://zh.wikipedia.org/zh-cn/H%C2%B7R%C2%B7%E5%90%89%E6%A0%BC%E5%B0%94)
 - [亨利·马蒂斯 法国油画家](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A9%AC%E8%92%82%E6%96%AF)
 - picasso 毕加索
+- Pixar style 皮克斯风格
+- Disney style 迪士尼风格
 
 ## content
 - endless outer space sci-fi landscap 无尽的外天空科幻风景
@@ -42,7 +44,11 @@
 - the painting creates a deep emotional atmosphere and unique cultural charm for the viewers 通过运用柔和的色彩和细腻的笔触,为观者营造出深沉的情感氛围和独特的文化魅力 
 - The light ink colors in contrast with soft and light brushstrokes, create a strong sense of light and dark contrast 淡淡的墨色与柔和轻盈的笔触形成强烈的明暗对比 
 - luminous xxx 发光的
-- 
+- Full-body portraits in 3D 全身像
+- shot straight ahead 目光向前
+
+## 动作延续
+- panels with different poses 不同的pose
 
 ## other
 - rich details 细节丰富
@@ -63,3 +69,9 @@
 - movie light 电影灯光
 - detailed textures and lighting 详细的纹理与照明
 - Blizzard Entertainment 暴雪娱乐
+- national tide wind 国风
+- movie quality 电影画质
+- lumen render 流明渲染
+- 3d relief 3d 浮雕
+- full body shoot 全身照
+- deconstruction 解构
