@@ -75,3 +75,33 @@
 - 3d relief 3d 浮雕
 - full body shoot 全身照
 - deconstruction 解构
+- character design 人物设计
+- knight-errant 武侠
+
+## 语法格式
+
+```js
+[pre-prompt]::[BASE PROMPT]:1.5 --seed [SEED ID] --stylize [stylize value]
+```
+```bash
+/imagine playful smile::Prince Rodrick the Great, elderly medieval prince, character design, in style of Rembrandt::1.5 — seed 3299135161 — stylize 800
+```
+你可以改变基础提示的权重以及stylize的值来微调图像
+
+```bash
+/imagine <facial expression>::<weight>::<base prompt>::<weight> — seed ID
+```
+
+In order to place a character in a different setting, one would use an image prompt or prompts, along with prompt of the character in the setting:
+
+```bash
+- /imagine <image URL> <character in a setting>::<weight>::<base prompt>::<weight> — seed ID
+```
+
+In order to place a character taking an action, one would use an image prompt or prompts, along with prompt of the character taking an action:
+
+```bash
+/imagine <image URL> <character taking an action>::<weight>::<base prompt>::<weight> — seed ID
+```
+
+It is challenging to get images of a consistent character in Midjourney, but there are definitely ways to “hack” it in order to maintain some consistency.
