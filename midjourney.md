@@ -77,6 +77,8 @@
 - deconstruction 解构
 - character design 人物设计
 - knight-errant 武侠
+- Chinese landscape painting 中国山水画
+- ink wash style 水墨画
 
 ## 语法格式
 
