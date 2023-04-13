@@ -64,7 +64,7 @@ Stable Diffusion 是一个开源模型，每个人都可以使用。 对当代�
 
 - 开源之后，商业版权不确定
 
-### 相同的prompt 三者的表现
+## 相同的prompt 三者的表现
 
 **cherry blossom near a lake, snowing（湖边的樱花，下雪天）**
 ![](./imgs/pasted%20image%202.png)
@@ -78,4 +78,10 @@ Stable Diffusion 是一个开源模型，每个人都可以使用。 对当代�
 ![](./imgs/pasted%20image%206.png)
 
 由此可见Midjourney的图像更像艺术画，而DALL·E 2更像是实际相机拍出的照片更写生。
+
+## 参考
+
+- [stable-diffusion-public-release](https://stability.ai/blog/stable-diffusion-public-release)
+- [midjourney quick start](https://docs.midjourney.com/docs/quick-start)
+- [DALL·E 2](https://openai.com/product/dall-e-2)
 
