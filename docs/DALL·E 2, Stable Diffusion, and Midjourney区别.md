@@ -26,6 +26,9 @@ Midjourney 是另一种基于 AI 的工具，可根据用户提示生成图像�
 
 Cloud Castle at night, cinematic(夜晚的云堡，电影的效果) – created by Midjourney
 
+## 背后的技术
+[The technology behind](https://www.marktechpost.com/2022/11/14/how-do-dall%C2%B7e-2-stable-diffusion-and-midjourney-work/)
+
 ## DALL·E 2, Stable Diffusion and Midjourney 三者比较
 
 DALL·E 2 已经过数百万张图片的训练，使其输出更加复杂，非常适合企业使用。 当有两个以上的角色时，DALL·E 2 产生的画面比 Midjourney 或 Stable Diffusion 好得多。
